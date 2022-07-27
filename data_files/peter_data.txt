@@ -1,0 +1,1 @@
+{'name': 'Peter Parker', 'first_nm': 'Peter', 'last_nm': 'Parker', 'nicknm': 'Spidey', 'dob': datetime.datetime(2000, 2, 12, 0, 0), 'gender': 'male', 'email': 'parkerpeter@gmail.com', 'age': 20}

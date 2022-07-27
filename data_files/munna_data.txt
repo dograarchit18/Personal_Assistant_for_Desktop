@@ -1,0 +1,1 @@
+{'name': 'Munna Tripathi', 'first_nm': 'Munna', 'last_nm': 'Tripathi', 'nicknm': 'Munna Bhaiya', 'dob': datetime.datetime(2000, 1, 1, 0, 0), 'gender': 'male', 'email': 'tripathimunna@gmail.com', 'age': 20}
